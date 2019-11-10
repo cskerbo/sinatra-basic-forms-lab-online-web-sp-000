@@ -7,6 +7,6 @@ class Puppy
     @breed = breed
     @months_old = months_old
   end
-  
+
 end
   
